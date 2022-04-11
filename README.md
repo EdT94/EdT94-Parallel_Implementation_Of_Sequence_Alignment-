@@ -75,12 +75,14 @@ For all Mutant Sequences of Seq2 find an offset which produce a maximum Alignmen
 Input data and Output Result of the project
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  Input File format
+Input File format:
+
 First line - weight coefficients W1, W2, W3, W4
 Next line – Seq1 (not more than 5000 chars in line)
 Next line – the number NS2 of Sequences Seq2 to check against Seq1
 Next NS2 lines - Seq2 in each line (not more than 3000 chars in each line)
 
-  Output File format
+Output File format:
+
 This file contains NS2 lines with offset, n and k found for each Sequence Seq2 from the input file, in order Sequences Seq2 appear in the input file. offset, n and k defines the location of the Mutant Sequence MS(n, k) with the best Alignment Score.
 
