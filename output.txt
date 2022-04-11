@@ -1,0 +1,4 @@
+offset 364 produces maximum score of 272.00 for seq2 number 1 with MS(1, 86)
+offset 129 produces maximum score of 2397.50 for seq2 number 2 with MS(1, 178)
+offset 858 produces maximum score of 831.10 for seq2 number 3 with MS(1, 209)
+offset 976 produces maximum score of 750.00 for seq2 number 4 with MS(1, 210)
