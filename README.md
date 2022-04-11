@@ -42,6 +42,7 @@ At the end of the check process the whole Sequence of Signs is obtained. This Se
 • The Alignment Score is calculated according to the pair-wise procedure described above.
 
 For example, Sequence Seq2 is placed at different offsets under Seq1:
+
 Score = -27
 Offset n = 5
 
