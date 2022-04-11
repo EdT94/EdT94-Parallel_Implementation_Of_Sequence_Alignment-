@@ -2,7 +2,9 @@ Parallel implementation of Sequence Alignment
 Final project
 Course 10324, Parallel and Distributed Computation
 2021 Fall Semester
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Sequence Alignment – a way to estimate a similarity of two strings of letters - is an important field in bioinformatics1. Sequence is a string of capital letters, for example
 
 ![image](https://user-images.githubusercontent.com/81565589/162817726-675ffc64-225f-49a7-96bb-32d0f96312b0.png)
