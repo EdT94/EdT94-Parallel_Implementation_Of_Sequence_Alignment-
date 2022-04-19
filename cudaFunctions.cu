@@ -216,7 +216,6 @@ int computeOnGPU(float ** mutantsScore, char * seq1, char * seq2, int seq1Length
 	freeCuda(dev_seq2);
 	freeCuda(dev_weights);
 	freeCuda(dev_offset);
-	freeCuda(dev_signs);
 
 	return 0;
 	
